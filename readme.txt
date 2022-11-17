@@ -3,3 +3,4 @@ Git is free software.
 wangyue add test
 wangyue add test 2
 wangyue add test 3
+git tracks changes 1
